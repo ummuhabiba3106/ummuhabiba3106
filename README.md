@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Ummu Habiba
 
-### 💻 Software Developer | Python Enthusiast | SQL | Power BI | Web Developer
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Engineering+Student;Always+Learning+New+Technologies;Building+Projects+That+Solve+Problems" />
 
 </div>
